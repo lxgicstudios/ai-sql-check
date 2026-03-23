@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-sql-check#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-sql-check"
+    "url": "git+https://github.com/LXGIC-Studios/ai-sql-check.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-sql-check/issues"
