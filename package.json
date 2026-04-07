@@ -1,5 +1,5 @@
 {
-  "name": "ai-sql-check",
+  "name": "@lxgicstudios/ai-sql-check",
   "version": "1.0.0",
   "description": "Detect SQL injection vulnerabilities in your codebase using AI",
   "main": "dist/index.js",
