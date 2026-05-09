@@ -15,31 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "sql-injection",
-    "sqli",
-    "security",
-    "vulnerability-scanner",
-    "database-security",
-    "devsecops",
-    "developer-tools",
-    "cli",
     "automation",
+    "claude",
+    "cli",
+    "database-security",
+    "developer-productivity",
+    "developer-tools",
+    "devsecops",
+    "discoverability",
+    "generative-ai",
+    "gpt",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "sql",
     "typescript",
-    "nodejs",
-    "owasp"
+    "validation"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-sql-check#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-sql-check.git"
+    "url": "https://github.com/LXGIC-Studios/ai-sql-check"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-sql-check/issues"
