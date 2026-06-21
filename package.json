@@ -8,7 +8,7 @@
     "ai-sql-check": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,13 +32,15 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-sql-check",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-sql-check",
   "keywords": [
     "sql",
     "query-validation",
     "linting",
     "database",
-    "syntax-check"
+    "syntax-check",
+    "seo-audit",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -49,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-sql-check"
   },
   "scripts": {
